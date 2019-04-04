@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Mishco/Pronic_Number.svg?branch=master)](https://travis-ci.org/Mishco/Pronic_Number)
+
 # Pronic Number
 Pronic number is a number which is the product of two consecutive integers. The task is to check and print Pronic Numbers in a range. The first few Pronic numbers are:
 0, 2, 6, 12, 20, 30, 42, 56, 72, 90, 110, 132 and so on.
