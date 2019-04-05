@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/Mishco/Pronic_Number.svg?branch=master)](https://travis-ci.org/Mishco/Pronic_Number)
+[![Code Coverage](https://img.shields.io/codecov/c/github/pvorb/property-providers/develop.svg)](https://codecov.io/github/pvorb/property-providers?branch=develop)
 
 # Pronic Number
 Pronic number is a number which is the product of two consecutive integers. The task is to check and print Pronic Numbers in a range. The first few Pronic numbers are:
